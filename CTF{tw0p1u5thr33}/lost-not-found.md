@@ -17,7 +17,7 @@ Searching this on Google Maps, we get the following results:
 
 Here begins the tedious part of the question. One by one we scour through the Google Street Views of each of the 5 possible locations, until we find the location resembling our image. However we have a hint embedded in the problem statement itself which makes it easier to identify the correct location.
 
-Remember the unassuming image of the green rabbit in the problem statemnent? Well, let's have a look at ``Rue de l'Académie, Lausanne, Switzerland``:
+Remember the unassuming image of the green rabbit in the problem statement? Well, let's have a look at ``Rue de l'Académie, Lausanne, Switzerland``:
 
 ![img](https://user-images.githubusercontent.com/96875426/227786097-74bea7bf-d1d1-4c4d-8fde-7dc5a72f8dce.png)
 
