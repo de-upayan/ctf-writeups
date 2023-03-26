@@ -20,7 +20,7 @@ This gives us:
 Those who are familiar with chess and computers will immediately recognise that this is a  [**FEN string**](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) (Those who are unfamiliar might need to do some Googling).
 
 
-Plugging the position into any  [online chess analysis board](https://www.365chess.com/analysis_board.php) gives us the following position, with White to move:
+Plugging the FEN string into any [online chess analysis board](https://www.365chess.com/analysis_board.php) gives us the following position, with White to move:
 
 
 ![image](https://s3.amazonaws.com/hr-assets/0/1679761711-b44e7a34ce-tmp.png)
