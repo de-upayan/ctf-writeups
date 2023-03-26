@@ -6,7 +6,7 @@ JUCTF{th3_fi13_i5_c0rrup7_XOX}
 We are given a single file *'pic-not-good.png'* along with the information that it supposedly does not open. Therefore, it is clear that to retrieve the flag, we must **repair** the corrupt file somehow.
 
 
-From the numerous instances of the acronym PNG scattered all throughout the problem, I only hoped to make the solver more aware of the pivotal role that this particular file format plays in the solution. Kindly give the following Wikipedia article section a thorough read before continuing with the editorial:
+From the numerous instances of the acronym PNG scattered all throughout the problem, I only hoped to make the solver more aware of the pivotal role that this particular file format plays in the solution. Kindly give the following Wikipedia article section a thorough read before continuing with the writeup:
 
 
 https://en.wikipedia.org/wiki/PNG#File_format
