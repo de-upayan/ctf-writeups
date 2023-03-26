@@ -3,7 +3,7 @@
 JUCTF{s33m$_l!k3_5hah_ma7_0x64}
 ```
 
-We have a password-protected file *'m4t1n9_ritu4l.pdf'*, and an encrypted string ``@T%Zp%L!Z!x$b!Z!x%LZ!l@B@lZ@l#l!Z%lt!Z!"^ < { { ) !`` along with an image of **Antonín Dvorak** (a simple reverse image search reveals this information). The sole purpose of this, along with the use term *"the right board"* in the problem statement, was to hint at the role of **keyboards**, or specifically, *keyboard layouts* in this problem ([**DVORAK**](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) is a pretty well known ergonomic keyboard layout, although Antonin Dvorak has nothing to do with it, except share his surname, since he was a 19th century composer)
+We have a password protected file *'m4t1n9_ritu4l.pdf'*, and an encrypted string ``@T%Zp%L!Z!x$b!Z!x%LZ!l@B@lZ@l#l!Z%lt!Z!"^ < { { ) !`` along with an image of **Antonín Dvorak** (a simple reverse image search reveals this information). The sole purpose of this, along with the use of the term *"the right board"* in the problem statement, was to hint at the role of **keyboards**, or specifically, *keyboard layouts* in this problem ([**DVORAK**](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) is a pretty well known ergonomic keyboard layout, although Antonin Dvorak has nothing to do with it, except share his surname, since he was a 19th century composer)
 
 
 It is then quite apparent that the given string has been typed out assuming the wrong keyboard layout (DVORAK instead of QWERTY), which must be reversed to make progress. Searching provides us an [online tool](https://www.dcode.fr/keyboard-change-cipher) for this purpose.
