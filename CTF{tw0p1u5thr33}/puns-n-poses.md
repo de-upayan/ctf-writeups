@@ -40,8 +40,8 @@ From the name of the PDF document, it is clear that we are looking for *numbers*
 Someone wrote this song before <br>
 And I could tell you where it's from <br>
 The **4-7-3-6-2-5-1** to put my mind at ease <br>
-Please just have a laugh with me <br>
 
+Please just have a laugh with me <br>
 'Cause you know I'm borrowing by now <br>
 These sounds, have already crowned <br>
 Come on, it's a silly dream <br>
