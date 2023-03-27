@@ -77,7 +77,7 @@ for byte in data.split('-'):
     
     for C in reversed(A):
         if(C >= 32 and C < 128):
-            S += chr(C);            
+            S += chr(C)            
 
 print('\n\n', S)
 
