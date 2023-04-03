@@ -57,7 +57,7 @@ The problem statement hints at the term **QR** by means of an acronym. Additiona
 
 ```python
 
-##author: twoplusthree
+## author: twoplusthree
 
 import numpy as np
 from matplotlib import pyplot as plt
