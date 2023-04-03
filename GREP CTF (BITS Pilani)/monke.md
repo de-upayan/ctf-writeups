@@ -44,7 +44,7 @@ upayan@CTF$
 
 ```
 
-Decoding the last string using Base64 gives us the flag.
+Converting the last string from **Base64** encoding to ASCII gave me the flag.
 
 ```console
 
