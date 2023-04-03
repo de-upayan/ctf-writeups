@@ -25,7 +25,9 @@ upayan@CTF$ strings monke.jpg
 
 ```console
 
-...
+.
+.
+.
 F#hI!U
 ;xJ*
 wcbJ
