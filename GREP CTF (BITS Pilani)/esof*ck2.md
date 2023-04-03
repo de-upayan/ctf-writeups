@@ -31,7 +31,7 @@ grepCTF{3sot3r1c_l4ngu4g3s_4r3_0k!}
 
 ## My solution
 
-I recognised the given file as [**BrainF\*ck**](https://en.wikipedia.org/wiki/Brainfuck) code. Running the code gave the following output:
+I recognised the given file as [**Brainf\*ck**](https://en.wikipedia.org/wiki/Brainfuck) code. Running the code gave the following output:
 
 ```console
 
